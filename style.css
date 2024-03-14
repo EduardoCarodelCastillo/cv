@@ -1,0 +1,41 @@
+h3{
+    color: rgb(21, 21, 24);
+}
+
+h2{
+    color: rgb(20, 7, 123);
+    background-color: rgb(115, 159, 161);
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+}
+h1{
+    color: rgb(50, 50, 227);
+}
+
+section{
+    background-color: rgb(183, 225, 225);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+header{
+    background-color: rgb(198, 217, 219);
+    margin: 50px;
+    border: 4px rgb(27, 46, 84) solid;
+}
+article{
+    background-color: rgb(179, 222, 246);
+}
+#cont{
+     background-color: cadetblue;
+}
+body{
+    background-color: white;
+    font-family: Oswald;
+}
+.consultor{
+    border-radius: 5px;
+    padding: 5px 5px;
+}
